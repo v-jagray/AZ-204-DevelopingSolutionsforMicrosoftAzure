@@ -60,10 +60,9 @@ Find the taskbar on your Windows 10 desktop. The taskbar contains the icons for 
     1. Leave the **Subscription** text box set to its default value.
     1. In the **Resource group** section, select **Create new**, enter **Serverless**, and then select **OK**.
     1. In the **Storage account name** text box, enter **funcstor[yourname]**.
-    1. In the **Location** list, select the **(US) East US** region.
+    1. In the **Region** list, select the **(US) East US** region.
     1. In the **Performance** section, select **Standard**.
-    1. In the **Account kind** list, select **StorageV2 (general purpose v2)**.
-    1. In the **Replication** list, select **Locally-redundant storage (LRS)**.
+    1. In the **Redundancy** list, select **Locally-redundant storage (LRS)**.
     1. Select **Review + Create**.
 1. On the **Review + Create** tab, review the options that you specified in the previous steps.
 1. Select **Create** to create the storage account by using your specified configuration.
